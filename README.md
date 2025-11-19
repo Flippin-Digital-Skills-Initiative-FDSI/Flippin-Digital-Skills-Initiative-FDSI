@@ -1,2 +1,2 @@
-# Flippin Digital Skills Initiative (FDSI)
-Flippin Digital Skills Initiative (FDSI)
+# TexasPaladin.github.io
+GitHub Pages Repository
